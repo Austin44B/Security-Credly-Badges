@@ -51,5 +51,20 @@ The Comptia Security+ Governance, Risk & Compliance badge covers exam objectives
 
 <img width="269" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/d63069a7-c8b3-4fa6-ad68-2f24fc370ccd">
 
+#
+
+In earning the Security+ [Infrastructure](https://www.credly.com/badges/aa20edca-f8d4-4f48-b433-383fe0223c61/public_url) badge : 
+
+I learned how to configure an Intrusion Detection System (IDS) and then initiated a Ethical Denial of Service (DoS) attack against a Windows server. while monitoring the DOS via a real time tool called SGUIL which is a Security Onion Linux distribution (securityonion'.'net) that is bundled with a Snort IDS sensor I was able to view and analyze log files.
+
+I then configured a Windows VPN server with a network access policy, configured a Windows VPN client, test VPN connectivity and scanned the VPN server for open ports. 
+
+I also tested basic SSH connectivity, and implemented a SSH security configurations test. and configured SSH key-based authentication and reviewed log files. 
+
+And finally I configured backups to remote storage for both Windows and Linux, and restored lost data from the remote systems. 
+
+The CompTia Security+ Infrastructure badge covers exam objectives in sections, 2.5, 3.3, 4.1![image](https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/fdb041cf-c8c3-4a1d-8270-aeca98fd65f3)
+
+<img width="268" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/cf4b260f-6899-45d8-a6fd-fc053edb9a5a">
 
 #
