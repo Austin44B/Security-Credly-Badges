@@ -83,3 +83,16 @@ The CompTia Security+ Operations badge covers exam objectives in sections, 3.7, 
 
 #
 
+In earning the Security+ [Security](https://www.credly.com/badges/23684706-6a6c-4956-afdf-265cf294344e/public_url) badge : 
+
+Viewed probable passwords based on a survey, integrated the passwords into a wordlist, and then used the modified wordlist to audit passwords by using John the Ripper.
+
+Configure a performance baseline by using Performance Monitor, and then stressed the CPU and memory to simulate the effects of an application attack. 
+
+Configure Burp Suite as an interception proxy. And exploit web vulnerabilities, including cross-site scripting and URL injection attacks.
+
+The CompTia Security+ Security badge covers exam objectives in sections, 1.2, 1.3, 1.7
+
+<img width="264" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/7607c475-47dc-46ae-802f-fff1c04e97d9">
+
+#
