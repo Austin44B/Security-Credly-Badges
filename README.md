@@ -63,7 +63,7 @@ I also tested basic SSH connectivity, and implemented a SSH security configurati
 
 And finally I configured backups to remote storage for both Windows and Linux, and restored lost data from the remote systems. 
 
-The CompTia Security+ Infrastructure badge covers exam objectives in sections, 2.5, 3.3, 4.1![image](https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/fdb041cf-c8c3-4a1d-8270-aeca98fd65f3)
+The CompTia Security+ Infrastructure badge covers exam objectives in sections, 2.5, 3.3, 4.1
 
 <img width="268" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/cf4b260f-6899-45d8-a6fd-fc053edb9a5a">
 
