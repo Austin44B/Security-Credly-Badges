@@ -68,3 +68,18 @@ The CompTia Security+ Infrastructure badge covers exam objectives in sections, 2
 <img width="268" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/cf4b260f-6899-45d8-a6fd-fc053edb9a5a">
 
 #
+
+In earning the Security+ [Operations](https://www.credly.com/badges/12680505-1769-404b-accd-441c8ed3e26c/public_url) badge : 
+
+I Explored the use of different kinds of accounts for managing objects in Active Directory and the use of GPO to apply account policies
+
+Managed access controls on a Linux server. By first, configuring local users and groups on the system. Then, Created directories and files to represent resources that need to be controlled. Following up with configuring the ownership of these directories and files. And finally, configured standard Linux permissions to manage for the users and groups to access the directories and files.
+
+Configured a Linux server as a central log repository, and then configure a second Linux server to forward logs to the central repository. And then displayed the locations of Linux and Windows dump files. And wrapped up with, configuring a remote administration console.
+
+The CompTia Security+ Operations badge covers exam objectives in sections, 3.7, 3.8, 4.1, 4.3
+
+<img width="264" alt="image" src="https://github.com/Austin44B/Security-Credly-Badges/assets/134319619/38b5680b-fcbe-4f15-88e1-74d996d1c715">
+
+#
+
